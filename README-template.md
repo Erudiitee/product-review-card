@@ -52,9 +52,9 @@ The solution is built without any frameworks just as listed below:
 
 ### What I learned
 
-I have been building cards in some of my previous projects completely with CSS framework Bootstrap. Very easy to use. Now, to have built this product preview card without using any framework is kinda exhilarating. I dd not get it at one try, it is through a series of surfing online. I found this card effect code on w3school.
+I have been building cards in some of my previous projects completely with the CSS framework Bootstrap. Very easy to use. Now to have built this product preview card without using any framework is kind of exhilarating. I did not get it on one try, it is through a series of surfing online. I found this card effect code on w3school.
 
-alos, the idea of using differrent images for both mobile and desktop was a totally new to me. I have been designing resposive mini projects using just a single image. After several attempts, I was able to achieve this. It is not doubt, I was able to learn new things.
+Also, the idea of using different images for both mobile and desktop was totally new to me. I have been designing responsive mini projects using just a single image. After several attempts, I was able to achieve this. It is no doubt that I was able to learn new things.
 
 The codes below really worked amazingly for me.
 
